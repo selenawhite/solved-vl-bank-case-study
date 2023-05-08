@@ -1,0 +1,7 @@
+Download Link: https://assignmentchef.com/product/solved-vl-bank-case-study
+<br>
+You are the chief information security officer (CISO) for VL Bank as depicted in the attached “VL Bank Case Study.” Examine the body of evidence that your information security analysts have collected and consider the following:
+
+• Who is affected?• What happened?• Where have the events occurred?• How will you resolve the cybercrime?• How did this happen?Task:
+
+A. Develop a report (suggested length of 4–5 pages) for VL Bank senior management regarding the cybercrime from the attached “VL Bank Case Study” in which you do the following:1. Discuss how two laws or regulations apply to the case study.a. Discuss how VL Bank will work within the parameters of appropriate legal jurisdiction with specific bodies of law enforcement to resolve the situation.b. Discuss legal considerations for preparing the digital evidence VL Bank will need to provide law enforcement and attorneys.c. Explain what coordination should take place between the CISO and VL Bank’s lawyer.2. Discuss how this cybercrime could affect VL Bank’s enterprise continuity.a. Explain how VL Bank could use technology to prevent the cybercrime in the case scenario.3. Discuss information security and assurance controls that could mitigate future attacks of this kind at VL Bank.a. Explain how these controls align to regulatory requirements and standards.B. When you use sources, include all in-text citations and references in APA format.
